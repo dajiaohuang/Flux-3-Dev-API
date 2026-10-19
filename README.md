@@ -28,6 +28,7 @@ A Python wrapper for **FLUX 3 Dev** — the faster, lower-cost variant of Black 
 - [MiniMax-H3-API](https://github.com/Anil-matcha/MiniMax-H3-API) — Python SDK for MiniMax H3 text-to-video, image-to-video, and first/last-frame video generation.
 - [Wan-3.0-API](https://github.com/Anil-matcha/Wan-3.0-API) — Python SDK and MCP server for Wan 3.0-compatible AI video generation.
 - [awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) — FLUX 3 API guide, prompt engineering, and a curated prompt library
+- [Flux-Klein-API](https://github.com/Anil-matcha/Flux-Klein-API) — focused guide and runnable examples for Muapi's live FLUX 3 Klein generation and editing endpoints
 - [flux-3-video-api](https://github.com/SamurAIGPT/flux-3-video-api) — Python wrapper covering all seven live FLUX 3 video endpoints (Text-to-Video, Image-to-Video, Start-End-to-Video, Video Extend, Video Upscaler, plus draft modes)
 - [flux-3-video-edit](https://github.com/Anil-matcha/flux-3-video-edit) — Python SDK for FLUX 3 Video Extend (continues an existing clip with new prompt-guided motion)
 - [flux-3-video-upscaler](https://github.com/Anil-matcha/flux-3-video-upscaler) — Python SDK for upscaling FLUX 3 (or any) video output beyond its native resolution
